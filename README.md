@@ -4,6 +4,8 @@ This is an example of using Python to compare lists in separate Excel workbooks 
 
 ## Jupyther Notebooks (Python code)
 
+These files contain the Python code for this example.
+
 * Fabricate Data.ipynb - Python code used to create the fabricated data used for this example.
 
 ## Data Files
